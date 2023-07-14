@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y.Mold.Parse", "Y.Mold.Parse\Y.Mold.Parse.csproj", "{323E880D-FC83-4BF5-A02F-51590CBB204E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y.Mold.Parse.Services", "Y.Mold.Parse.Services\Y.Mold.Parse.Services.csproj", "{F128AFCC-6AEE-435E-95E5-F227F8BEA559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Y.Mold.Parse.Tests", "Y.Mold.Parse.Tests\Y.Mold.Parse.Tests.csproj", "{38AC8151-09D1-4B2B-A195-931F8E746C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323E880D-FC83-4BF5-A02F-51590CBB204E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323E880D-FC83-4BF5-A02F-51590CBB204E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323E880D-FC83-4BF5-A02F-51590CBB204E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323E880D-FC83-4BF5-A02F-51590CBB204E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F128AFCC-6AEE-435E-95E5-F227F8BEA559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F128AFCC-6AEE-435E-95E5-F227F8BEA559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F128AFCC-6AEE-435E-95E5-F227F8BEA559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F128AFCC-6AEE-435E-95E5-F227F8BEA559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AC8151-09D1-4B2B-A195-931F8E746C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AC8151-09D1-4B2B-A195-931F8E746C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AC8151-09D1-4B2B-A195-931F8E746C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AC8151-09D1-4B2B-A195-931F8E746C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
